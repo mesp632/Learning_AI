@@ -1,3 +1,6 @@
+#Practice exercise Ch.3 Data for AI Exercise 1 from The Fundamentals of 
+# Artificial Intelligence Volume 1 by Dr. Nisha Talagala and Dr. Sindhu Ghanta
+
 #import pandas module to read the CSV file
 import pandas as pd
 
